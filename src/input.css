@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.container{
+    @apply max-w-[1166px] mx-auto 
+}
+
+@theme{
+    --font-poppin: "Poppins", sans-serif; 
+}

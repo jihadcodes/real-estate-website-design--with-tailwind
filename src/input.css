@@ -31,7 +31,7 @@
   }
 
   nav .nav_menu_li a {
-    @apply relative duration-200 after:rounded-[5px] after:absolute after:top-full after:left-1/2 after:-translate-x-1/2 translate-y-full after:bg-[#ff7527] after:w-5  after:h-1 after:opacity-0 hover:after:opacity-100 duration-300;
+    @apply relative  after:rounded-[5px] after:absolute after:top-full after:left-1/2 after:-translate-x-1/2 translate-y-full after:bg-[#ff7527] after:w-5  after:h-1 after:opacity-0 hover:after:opacity-100 duration-300;
   }
 }
 

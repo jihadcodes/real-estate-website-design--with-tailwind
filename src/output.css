@@ -492,8 +492,6 @@
     position: relative;
     --tw-translate-y: 100%;
     translate: var(--tw-translate-x) var(--tw-translate-y);
-    --tw-duration: 200ms;
-    transition-duration: 200ms;
     --tw-duration: 300ms;
     transition-duration: 300ms;
     &::after {
